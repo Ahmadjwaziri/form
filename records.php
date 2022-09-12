@@ -18,7 +18,9 @@ include ('connection.php');
 </style>
 </head>
 <body>
+
    <center>
+    
     <h3>LIST OF REGISTED RECORD IN DATABASE</h3>
 <table style="width: 100%;">
 
